@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^tools
+^\.travis\.yml$
+^inst/examples/random\.R$
+^revdep$
